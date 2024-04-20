@@ -1,5 +1,6 @@
 # JAVA_EE
 
-![Açıklama](https://github.com/aykutmurkit/JAVA_EE/assets/44169438/cdc47c86-7b3b-464e-9ecb-ed9fadb031c0)
-)
+![Açıklama](https://d8285fmxt3duy.cloudfront.net/teleusers/vid_presentacion_cursos/courseImage_JAVA2EE_1495021848_.png)
+
+
 
