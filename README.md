@@ -1,3 +1,5 @@
 # JAVA_EE
 
-![Açıklama](https://i0.wp.com/antoniogoncalves.org/wp-content/uploads/2014/05/java_ee_logo_vert_v2.png?ssl=1)
+![Açıklama](https://github.com/aykutmurkit/JAVA_EE/assets/44169438/cdc47c86-7b3b-464e-9ecb-ed9fadb031c0)
+)
+
